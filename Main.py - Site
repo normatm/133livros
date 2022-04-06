@@ -1,0 +1,16 @@
+# 1 - imports / bibliotecas
+
+# 2 - Classe
+
+# 3 - Métodos (não retorna valor) e Funções (retorna com valores)
+# def = definition = definição
+def dizer_oi(nome):
+    print(f'Olá, {nome}')nt_hi(name):
+
+    print(f'Hi, {name}')
+
+# estrutura de identificação / execução do script
+if __name__ == '__main__':  # acionador da execução do script
+    dizer_oi('Norma')
+def dizer_oi(nome):
+    print(f'Olá, {nome}')
